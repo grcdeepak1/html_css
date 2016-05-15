@@ -1,7 +1,8 @@
 /*header, aside, section, footer, div {
   border: 1px solid #ddd;
-}
-*//*Navbar*/
+}*/
+
+/*Navbar*/
 .nav-container img {
   height: 20px;
   width: 20px;
@@ -121,6 +122,16 @@
   display: inline-block;
   margin: 10px auto 10px auto;
   text-align:center;
+}
+
+.item .itemImage {
+  width: 120px;
+  height: 100px;
+  position: relative;
+}
+
+.item .itemImage .itemPrice {
+  position: ab
 }
 
 /* Pagination */
