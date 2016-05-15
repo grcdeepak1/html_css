@@ -1,0 +1,177 @@
+/*header, aside, section, footer, div {
+  border: 1px solid #ddd;
+}*/
+/*Navbar*/
+.nav-container img {
+  height: 20px;
+  width: 20px;
+  display: inline-block;
+}
+.nav-container {
+  height: 20px;
+  padding: 20px;
+}
+.nav-container .logo {
+  display: inline-block;
+  margin-left: 10%
+}
+.nav-container .right{
+  display: inline-block;
+  float: right;
+  margin-right: 10%;
+}
+.nav-container h2 {
+  display: inline-block;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+}
+.nav-container .logo h2 {
+  font-size: 24px;
+}
+
+/* Banner*/
+.banner img {
+  height: 250px;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+
+.banner h2 {
+  width: 100%;
+  height: 50px;
+  background: #333;
+  color: #fff;
+  text-align: center;
+  line-height: 50px;
+}
+.banner h3 {
+  width: 100%;
+  height: 50px;
+  color: #666;
+  font-style:  italic;
+  text-align: center;
+  line-height: 50px;
+}
+
+/* Items */
+.items img {
+  width: 120px;
+  height: 100px;
+  border: double;
+}
+.items {
+  margin: 10px 15%;
+}
+
+.items .itemName {
+  width: 120px;
+  height: 30px;
+  text-align: center;
+  border: 4px solid #333;
+  background: #333;
+  color: #fff;
+  margin:0 auto;
+}
+
+.items .addtocart-container {
+  width: 120px;
+  height: 30px;
+  border: 4px solid #333;
+  background: #333;
+  color: #fff;
+  margin:0 auto;
+  vertical-align: middle;
+  text-align: center;
+}
+.items .addtocart-button {
+  display: inline-block;
+  margin: 4px 10px;
+  background: #F6B26B;
+  color: #333;
+  border-radius: 3px;
+  padding: 3px 5px;
+}
+
+.col-1-3 {
+  width: 30%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.items .item-entry {
+  display: inline-block;
+  margin: 10px auto 10px auto;
+  text-align:center;
+}
+
+/* Pagination */
+.pagination {
+  text-align: center;
+}
+.pagination a {
+  padding: 10px;
+}
+.pagination p {
+  display: inline-block;
+  padding: 5px;
+}
+.pagination .active {
+  text-decoration: none;
+}
+
+/* Footer */
+.footer-container {
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  left: 0;
+  bottom:  0;
+  background: #333;
+  color: #fff;
+}
+footer section {
+  margin: 10px 0;
+}
+.footer-container .contact {
+  text-align: center;
+}
+.footer-container .phone img {
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+  margin-left: 43%;
+  margin-right: 10px;
+}
+.footer-container .phone h3 {
+  display: inline-block;
+}
+.footer-container .email img {
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+  margin-left: 43%;
+  margin-right: 10px;
+}
+.footer-container .email h3 {
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
